@@ -1,0 +1,5 @@
+age = INPUT : "Enter your age"
+IF age is greater than 18
+    PRINT "adult"
+ELSE
+    PRINT "Under age"
